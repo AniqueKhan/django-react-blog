@@ -1,0 +1,25 @@
+.vscode
+blog_images
+#backend
+backend/venv*
+backend/media*
+backend/build*
+
+backend/blog/__pycache__
+backend/blog_lyfe/__pycache__
+backend/db.sqlite3
+
+#frontend
+
+frontend/node_modules*
+frontend/.env*
+# misc
+frontend/.DS_Store
+frontend/.env.local
+frontend/.env.development.local
+frontend/.env.test.local
+frontend/.env.production.local
+
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
